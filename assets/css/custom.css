@@ -23,7 +23,7 @@ added to the button in the index html file as well.*/
 
 
 #banner {
-  background-image: url(../../images/ceramics.jpg);
+  /*background-image: url(../../images/ceramics.jpg);*/
   background-size: cover;
   color: rgba(255, 255, 255, 0.75);
   text-shadow: 1px 1px 15px #333;
