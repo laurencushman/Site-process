@@ -22,7 +22,7 @@ You can call the class whatever you want, but in order for it to work, it needs 
 added to the button in the index html file as well.*/
 
 
-#banner {
+#banner-homepage {
   background-image: url(../../images/ceramics.jpg);
   background-size: cover;
   color: rgba(255, 255, 255, 0.75);
