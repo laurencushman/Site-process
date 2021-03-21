@@ -3305,7 +3305,7 @@ take precedence the ones in this file. */
 
 	#banner {
 		background-image: url(../../images/ceramics.jpg);
-		background-color: #3E765A;
+		background-color: #7E2A32;
 		color: rgba(255, 255, 255, 0.75);
 		text-align: center;
 		cursor: default;
@@ -3350,7 +3350,7 @@ take precedence the ones in this file. */
 		#banner input[type="button"],
 		#banner button,
 		#banner .button {
-			background-color: #3E765A;
+			background-color: #7E2A32;
 			color: #fff !important;
 		}
 
@@ -3359,7 +3359,7 @@ take precedence the ones in this file. */
 			#banner input[type="button"]:hover,
 			#banner button:hover,
 			#banner .button:hover {
-				background-color: #1dd2af;
+				background-color: #7E2A32;
 			}
 
 			#banner input[type="submit"]:active,
@@ -3367,7 +3367,7 @@ take precedence the ones in this file. */
 			#banner input[type="button"]:active,
 			#banner button:active,
 			#banner .button:active {
-				background-color: #17a689;
+				background-color: #7E2A32;
 			}
 
 			#banner input[type="submit"].alt,
