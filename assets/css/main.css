@@ -3560,6 +3560,7 @@ take precedence the ones in this file. */
 
 			#banner {
 				padding: 5em 1.5em 4em 1.5em;
+				background-image: url(../../images/ceramics.jpg);
 			}
 
 				#banner h1 {
