@@ -3304,7 +3304,11 @@ take precedence the ones in this file. */
 /* Banner */
 
 	#banner {
+		background-image: url(file:///Users/laurencushman/Documents/GitHub/Process_Site/ProcessSite/Site-process/images/ceramics.jpg);
+        background-size: cover;
+		text-shadow: 1px 1px 15px #333;
 		
+		background-color: #3E765A;
 		color: rgba(255, 255, 255, 0.75);
 		text-align: center;
 		cursor: default;
